@@ -1,5 +1,5 @@
 # DESIFRE-PROJESI
-int main(void) {
+
 	1)öncelikle alfabeyi ve metni char değişkeni ile tanımladım.Anahtarı da tanımlayarak değerini verdim
 	2)Şifrelenecek cümleyi kullanıcıdan istedim ve gets ile yazmasını bekledim.
 	3)strlen ile metnin uzunluğunu ölçtüm,metni 100 elemanlı tanımladığım için eğer 100'den fazla olursa uyarmasını sağladım.
